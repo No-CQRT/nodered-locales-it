@@ -1,4 +1,0 @@
-SMEMChatIT
-==========
-
-Collecting SMEMChatIT
