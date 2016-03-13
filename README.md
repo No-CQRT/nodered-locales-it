@@ -1,4 +1,4 @@
-SMEMChatIT
+NodeRED - IT
 ==========
 
-Collecting SMEMChatIT
+Providing locales it-IT for nodered.org
