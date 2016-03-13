@@ -8,33 +8,33 @@
             "password": "Password"
         },
         "status": {
-            "connected": "connected",
-            "not-connected": "not connected",
-            "disconnected": "disconnected",
-            "connecting": "connecting",
-            "error": "error",
+            "connected": "connesso",
+            "not-connected": "non connesso",
+            "disconnected": "disconnesso",
+            "connecting": "connessione",
+            "error": "errore",
             "ok": "OK"
         },
         "notification": {
-            "error": "<strong>Error</strong>: __message__",
+            "error": "<strong>Errore</strong>: __message__",
             "errors": {
-                "not-deployed": "node not deployed",
-                "no-response": "no response from server",
-                "unexpected": "unexpected error (__status__) __message__"
+                "not-deployed": "nodo non trasmesso",
+                "no-response": "nessuna risposta dal server",
+                "unexpected": "errore inatteso (__status__) __message__"
             }
         },
         "errors": {
-            "nooverride": "Warning: msg properties can no longer override set node properties. See bit.ly/nr-override-msg-props"
+            "nooverride": "Attenzione: msg properties non può più sovrascrivere le proprietà dei nodi. Controlla su bit.ly/nr-override-msg-props"
         }
     },
     "inject": {
-        "inject": "inject",
-        "repeat": "repeat = __repeat__",
+        "inject": "inserisci",
+        "repeat": "ripeti = __repeat__",
         "crontab": "crontab = __crontab__",
-        "stopped": "stopped",
-        "failed": "Inject failed: __error__",
+        "stopped": "fermato",
+        "failed": "inserzione fallita: __error__",
         "label": {
-            "repeat": "Repeat"
+            "repeat": "Ripeti"
         },
         "timestamp": "timestamp",
         "none": "none",
